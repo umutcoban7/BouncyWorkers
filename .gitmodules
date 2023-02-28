@@ -1,0 +1,3 @@
+[submodule "Assets/DHToolbox"]
+	path = Assets/DHToolbox
+	url = https://github.com/DreamHarvesters/DHToolbox.git
